@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcuervo-dev
 - 👀 I’m interested in writing code and drinking coffee
-- 🌱 I’m currently learning Deep learning with python
+- 🌱 I’m currently learning Deep Learning with python
 
 
 <!---
